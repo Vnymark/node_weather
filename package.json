@@ -13,6 +13,7 @@
   "author": "Viktor Nymark",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
   }
 }
